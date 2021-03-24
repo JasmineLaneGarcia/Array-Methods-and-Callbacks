@@ -98,7 +98,7 @@ function getWinnersByYear(data, getYearsCB, getWinnersCB) {
     })
 }
 
-// console.log('Task 5:', getWinnersByYear(fifaData, getYears(), getWinnersByYear()));
+console.log('Task 5:', getWinnersByYear(fifaData, getYears, getWinners));
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use the higher order function getAverageGoals to do the following: 
